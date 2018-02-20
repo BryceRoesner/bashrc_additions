@@ -15,4 +15,4 @@ Single Command:
 - curl https://raw.githubusercontent.com/z-oid/bashrc_additions/master/bashrc_additions.txt >> ~/.bashrc
 
 Copy/Paste:
-- click on bashrc_additions.txt -> raw -> copy. Open .bashrc in your text editor of choice and paste the copied text at the bottom of the file.
+- copy https://raw.githubusercontent.com/z-oid/bashrc_additions/master/bashrc_additions.txt and paste into your .bashrc file.
